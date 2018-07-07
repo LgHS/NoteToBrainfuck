@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BachtoBrainfuckTranspiler": {
+      "commandName": "Project",
+      "commandLineArgs": "--file part.txt"
+    }
+  }
+}
