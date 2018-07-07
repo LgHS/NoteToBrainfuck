@@ -1,4 +1,4 @@
-# NoteToBrainfuck
+# NoteToBrainfuck (originaly named BachToBrainfuck)
 A transpiler of musical notation to brainfuck code
 
 Example of musical notation that the transpipler understand:
