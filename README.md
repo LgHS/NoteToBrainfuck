@@ -1,5 +1,5 @@
 # NoteToBrainfuck
-A transpiler of musical notation to brainfuck program
+A transpiler of musical notation to brainfuck code
 
 Example of musical notation that the transpipler understand:
 
